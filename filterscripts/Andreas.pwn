@@ -1,0 +1,7 @@
+#include <a_samp>
+
+ptask [6000*720](playerid)
+{
+	SCMTAEX(COLOR_GREEN, "[SUNDAY]:{FFFFFF}Se{FFFFFF}rv{FFFFFF}e{FFFFFF}r d{FFFFFF}e{FFFFFF}ve{FFFFFF}lo{FFFFFF}pm{FFFFFF}e{FFFFFF}nt {FFFFFF}b{FFFFFF}y S{FFFFFF}u{FFFFFF}n{FFFFFF}d{FFFFFF}a{FFFFFF}y");
+	return 1;
+}

@@ -1,0 +1,3 @@
+C:\Users\Administrator\Desktop\by.SUN\gamemodes\TD\TD_Warning.pwn(6) : ่ไๅํ๒่๔่๊เ๒๎๐ ํๅ ่๑๏๎๋็๓ๅ๒๑: "TD_Warning"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+

@@ -1,0 +1,3 @@
+C:\Users\Administrator\Desktop\by.SUNDAY\SC-bySUNDAY\gamemodes\inc\Map_247_Gas.pwn(3) : ่ไๅํ๒่๔่๊เ๒๎๐ ํๅ ่๑๏๎๋็๓ๅ๒๑: "Map_247"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+

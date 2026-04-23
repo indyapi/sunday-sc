@@ -1,0 +1,14 @@
+C:\Users\ปริญญาพัฒน์ ยอดมณี\Desktop\SC-bySUNDAYa\SC-bySUNDAY\filterscripts\SUNDAY\sunday-ac.pwn(37) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\ปริญญาพัฒน์ ยอดมณี\Desktop\SC-bySUNDAYa\SC-bySUNDAY\filterscripts\SUNDAY\sunday-ac.pwn(39) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\ปริญญาพัฒน์ ยอดมณี\Desktop\SC-bySUNDAYa\SC-bySUNDAY\filterscripts\SUNDAY\sunday-ac.pwn(41) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\ปริญญาพัฒน์ ยอดมณี\Desktop\SC-bySUNDAYa\SC-bySUNDAY\filterscripts\SUNDAY\sunday-ac.pwn(44) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\ปริญญาพัฒน์ ยอดมณี\Desktop\SC-bySUNDAYa\SC-bySUNDAY\filterscripts\SUNDAY\sunday-ac.pwn(44) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\ปริญญาพัฒน์ ยอดมณี\Desktop\SC-bySUNDAYa\SC-bySUNDAY\filterscripts\SUNDAY\sunday-ac.pwn(44) -- (46) : ๎๘่แ๊เ 054: ํๅ๑๎๎๒โๅ๒๑๒โ๓๙เ ็เ๊๐๛โเ๙เ ๑๊๎แ๊เ ("}")
+C:\Users\ปริญญาพัฒน์ ยอดมณี\Desktop\SC-bySUNDAYa\SC-bySUNDAY\filterscripts\SUNDAY\sunday-ac.pwn(44) -- (46) : ๔เ๒เ๋ํเ ๎๘่แ๊เ 107: ๑๋่๘๊๎์ ์ํ๎ใ๎ ๎๘่แ๎๊ ํเ ๎ไํ๎้ ๑๒๐๎๊ๅ
+
+ส๎์๏่๋๖่ ๎๑๒เํ๎โ๋ๅํเ.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+ฮ๘่แ๎๊:7.

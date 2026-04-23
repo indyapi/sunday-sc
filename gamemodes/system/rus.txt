@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\SC-bySUNDAY\SC-bySUNDAY\gamemodes\system\key_ctrl_back.pwn(9) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "Pump_Nearest"
+C:\Users\Administrator\Desktop\SC-bySUNDAY\SC-bySUNDAY\gamemodes\system\key_ctrl_back.pwn(13) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "PumpFuelcar"
+C:\Users\Administrator\Desktop\SC-bySUNDAY\SC-bySUNDAY\gamemodes\system\key_ctrl_back.pwn(13) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 215: โ๛๐เๆๅํ่ๅ ํๅ ่์ๅๅ๒ ๔๔ๅ๊๒เ
+C:\Users\Administrator\Desktop\SC-bySUNDAY\SC-bySUNDAY\gamemodes\system\key_ctrl_back.pwn(13) : ๎๘่แ๊เ 001: ๎ๆ่ไเ๋๑ ๒๎๊ๅํ ";", ํ๎ ํเ้ไๅํ "]"
+C:\Users\Administrator\Desktop\SC-bySUNDAY\SC-bySUNDAY\gamemodes\system\key_ctrl_back.pwn(13) : ๎๘่แ๊เ 029: ํๅ๏๐เโ่๋ํ๎ๅ โ๛๐เๆๅํ่ๅ, ๏๐่ํ๒ ํ๎๋
+C:\Users\Administrator\Desktop\SC-bySUNDAY\SC-bySUNDAY\gamemodes\system\key_ctrl_back.pwn(13) : ๔เ๒เ๋ํเ ๎๘่แ๊เ 107: ๑๋่๘๊๎์ ์ํ๎ใ๎ ๎๘่แ๎๊ ํเ ๎ไํ๎้ ๑๒๐๎๊ๅ
+
+ส๎์๏่๋๖่ ๎๑๒เํ๎โ๋ๅํเ.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+ฮ๘่แ๎๊:5.
